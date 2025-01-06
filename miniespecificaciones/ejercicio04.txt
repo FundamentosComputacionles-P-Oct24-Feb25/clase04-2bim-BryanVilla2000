@@ -21,3 +21,4 @@
 21.     Escribir mensaje
 22.  fin funcion obtenerTabla
 23. Fin
+// el procedimiento realiza una multiplicacion y va almacenando en una cadena acumuladora yluego la presenta 
