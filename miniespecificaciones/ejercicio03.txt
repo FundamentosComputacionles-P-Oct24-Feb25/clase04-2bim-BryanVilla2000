@@ -19,4 +19,5 @@
 
 // 30
 // 110
-//
+// En este codigo existen dos procedimiento, ya que los procedimientos no retornan un valor 
+// mientras que las funciones si deben retornar un valor 
