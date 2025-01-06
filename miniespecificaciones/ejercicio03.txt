@@ -6,7 +6,8 @@
 6.      variable2 <-- 20
 7.      obtenerSuma(variable, variable2)
 8.      obtenerSuma(variable, 100)
-9.      obtenerSuma("variable", 100) // ojo, error...
+9.      obtenerSuma("variable", 100) // ojo, error: da error ya que ele metodo obtener suma espera dos 
+                                    //parametros de tipo entero y aqu se esta enviando uno de tipo   cadena y otro de tipo entero 
 10.  fin funcion principal
 11.  // se define un método o función
 12.  funcion obtenerSuma(a, i; b, i)
